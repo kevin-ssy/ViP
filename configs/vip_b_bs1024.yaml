@@ -1,0 +1,8 @@
+model: "vip_base"
+
+total_batch_size: 1024  # 16 cards -> total batch size 1024
+lr: 1e-3
+warmup_lr: 1e-6
+weight_decay: 0.05
+img_size: 224
+warmup-epochs: 20
