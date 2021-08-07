@@ -2,7 +2,7 @@
 
 This is the official implementation of the paper [Visual Parser: Representing Part-whole Hierarchies with Transformers](https://arxiv.org/abs/2107.05790).
 
-We also released the codebase for [ViP object detection & instance segmentation](https://github.com/yuexy/ViP-Object-Detection).
+We also released the codebase for [ViP **object detection & instance segmentation**](https://github.com/yuexy/ViP-Object-Detection).
 
 
 ![Visual Parser](imgs/cat.png)
